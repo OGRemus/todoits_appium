@@ -8,7 +8,7 @@
 1. Setting up Android emulator and Android studio.
 1. Java jdk and node modules installed
 1. Create app folder in the rood and adding application under test apk
-1. Running tests `npm run android.app`
+1. Running tests `npm run android.app` . Make sure you have an appium server running on your localhost. Default port is 4724 but you can change it inside the android config file. An android emulator should also be runnig and you can also set name and version inside the android config file
 
 
 ## Configuration files
